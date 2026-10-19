@@ -23,5 +23,5 @@ Analisar dados reais de transações de uma loja online no Reino Unido (2010-201
 
 ## 🚀 Como rodar
 1. Clone o repositório.
-2. Instale as dependências: `pip install pandas matplotlib`
+2. Instale as dependências: `pip install pandas | matplotlib | numpy`
 3. Abra o arquivo `analise_completa.ipynb` no Jupyter/VS Code e execute as células.
