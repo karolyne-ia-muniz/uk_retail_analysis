@@ -10,7 +10,15 @@ Analisar transações reais de uma [loja online no Reino Unido](https://archive.
 - **Cuidados de interpretação** ao final de cada seção do notebook: o que a análise mostra e o que ela não permite concluir.
 
 ## 💡 Principais Descobertas
-> Preencha com os números da **última célula** do notebook (seção 9) depois de rodá-lo com a base original.
+Período analisado                  01/12/2010 a 09/12/2011
+Linhas após a limpeza              530,104
+Receita total (£)                  10,666,685
+Clientes identificados             4,338
+Participação do 1º país            United Kingdom = 84.6% da receita
+Mês de maior receita (completo)    2011-11
+Retenção média no mês 1            21.5%
+Clientes com 2+ compras            64.2%
+Campeões                           947 clientes (21.8%) = 64.6% da receita
 
 1. **Países:** o Reino Unido concentra 85% da receita. Alemanha, França e Irlanda já compram, mas a análise não mede crescimento, então expansão para esses países é uma **hipótese a testar**.
 2. **Produtos:** excluindo frete, taxas e ajustes, os produtos de maior receita são REGENCY CAKESTAND 3 TIER, PAPER CRAFT , LITTLE BIRDIE, WHITE HANGING HEART T-LIGHT HOLDER, PARTY BUNTING e 
