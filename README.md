@@ -1,7 +1,7 @@
 # 📊 Análise de Desempenho de E-commerce (UK Online Retail)
 
 ## 🎯 Objetivo do Projeto
-Analisar dados reais de transações de uma loja online no Reino Unido (2010-2011)[https://archive.ics.uci.edu/dataset/352/online+retail] para identificar tendências de vendas, sazonalidade e perfis de clientes, gerando insights acionáveis para o time de negócios.
+Analisar dados reais de transações de uma loja online no Reino Unido [2010-2011](https://archive.ics.uci.edu/dataset/352/online+retail) para identificar tendências de vendas, sazonalidade e perfis de clientes, gerando insights acionáveis para o time de negócios.
 
 ## 🛠️ Ferramentas e Técnicas
 - **Python (Pandas, NumPy, Matplotlib):** limpeza, engenharia de variáveis e visualização.
