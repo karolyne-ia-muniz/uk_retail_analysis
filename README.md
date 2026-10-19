@@ -12,6 +12,10 @@ Analisar dados reais de transações de uma loja online no Reino Unido (2010-201
 2. **Sazonalidade e Black Friday:** A receita atinge seu pico absoluto em **Novembro**, impulsionado pela Black Friday. *Ação sugerida:* Garantir estoque e campanhas de marketing focadas nos "produtos estrela" já em outubro.
 3. **Segmentação de Clientes (RFM):** Identificamos um grupo de "Campeões" (clientes com alta frequência e alto gasto). *Ação sugerida:* Criar um programa de fidelidade ou descontos progressivos para múltiplos itens para reter esse público de alto valor.
 
+4. **Análise Mundial de Grownth:** Países como Alemanha, França e Irlanda apresentam grande número de vendas, uma oportunidade para expandir o mercado para essas áreas!
+
+5. **Análise de Hábitos de Clientes VIP:** Ao analisar os produtos mais comprados pelos nossos clientes "Campeões" (e aplicando um filtro para remover ruídos operacionais como o "POSTAGE"), identificamos forte preferência por itens como *CARRIAGE*, *CINDERELLA CHANDELIER* e *VICTORIAN SEWING BOX*. **Ação sugerida:** Criar campanhas de recomendação cruzada ("quem comprou isso, também comprou aquilo") ou bundles exclusivos com esses itens para atrair novos clientes com perfil semelhante ao dos nossos VIPs.
+
 ## 📂 Estrutura do Projeto
 - `online_retail.csv`: Dataset original.
 - `online_retail_cleaned.csv`: Dataset após tratamento (remoção de cancelamentos e valores negativos).
